@@ -1,4 +1,4 @@
-<img src="https://github.com/egoist/egoist/raw/master/coding.gif" width="50">
+<img src="https://github.com/marinko-peso/marinko-peso/raw/master/coding.gif" width="50">
 
 ### Hi there 👋
 
