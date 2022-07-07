@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow)
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 - 💬 Ask me about anything
